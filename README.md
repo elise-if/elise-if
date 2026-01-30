@@ -1,4 +1,11 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWtvN2Q3b2RzNXBuOGJoNTk4NnlpbHdlOXo2amRxOGxxcjNpeHM5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PS8myGd5ItNfBfitEp/giphy.gif" width=150>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/elise-lamson/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+</div>
 
 <!--
 **elise-if/elise-if** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
