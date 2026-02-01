@@ -23,7 +23,7 @@
     <li>Movie Tracker</li>
     <li>Sanguine Game</li>
     <li>Solitaire Game</li>
-    <li>Shell Script</li>
+    <li><a href="https://github.com/elise-if/my-shell">Shell Script</a></li>
   </ul>
 </div>
 <br/>
