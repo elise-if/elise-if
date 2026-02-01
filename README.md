@@ -6,7 +6,7 @@
 <h2>About me:</h2>
 <div>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlsNWk0czBjaHNxam04Z2xscXdkb3Jlenc2ZzNzOGg3cnh1eW5vMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8jw9EPF8XywiFuugHY/giphy.gif" width=150
-    align="left">
+    align="left" margin=10>
   <p>
     I'm Elise Lamson, a second-year computer science student at Northeastern University and aspiring software developer. I'm currently enjoying learning React and TypeScript, for a 
     personal movie-tracker project as well as a group software development project in one of my classes. I also have a background in algorithms, object-oriented design, computer 
@@ -14,6 +14,20 @@
   </p>
 </div>
 <br/>
+
+<h2>My projects:</h2>
+<div>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTBkOHNzc216bHo3bXdyNnB6N2Nxeno1a3FqMHp4eDZsdDZ1OWdnbSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/p34MlXlU4jx7fvWTmT/giphy.gif"
+    width=150 align="left">
+  <ul>
+    <li>Movie Tracker</li>
+    <li>Sanguine Game</li>
+    <li>Solitaire Game</li>
+    <li>Shell Script</li>
+  </ul>
+</div>
+<br/>
+
 <h2>My skills:</h2>
 <div>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVjenFidm91ZnFobnByZTU2bDkxNTNkYnYzdTlveTM4cGg5aDQ4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5faRmFgheTda0WvYHy/giphy.gif" 
