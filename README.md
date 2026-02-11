@@ -21,7 +21,7 @@
     width=150 align="left">
   <ul>
     <li>Movie Tracker</li>
-    <li>Sanguine Game</li>
+    <li><a href="https://github.com/elise-if/sanguine-game">Sanguine Game</li>
     <li>Solitaire Game</li>
     <li><a href="https://github.com/elise-if/my-shell">Shell Script</a></li>
   </ul>
