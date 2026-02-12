@@ -22,7 +22,7 @@
   <ul>
     <li>Movie Tracker</li>
     <li><a href="https://github.com/elise-if/sanguine-game">Sanguine Game</li>
-    <li>Solitaire Game</li>
+    <li><a href="https://github.com/elise-if/klondike-solitaire"></a>Solitaire Game</li>
     <li><a href="https://github.com/elise-if/my-shell">Shell Script</a></li>
   </ul>
 </div>
