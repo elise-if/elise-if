@@ -20,7 +20,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTBkOHNzc216bHo3bXdyNnB6N2Nxeno1a3FqMHp4eDZsdDZ1OWdnbSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/p34MlXlU4jx7fvWTmT/giphy.gif"
     width=150 align="left">
   <ul>
-    <li>Movie Tracker</li>
+    <li>Movie Tracker (in progress!)</li>
+    <li><a href="https://spring26-project-group-205-1.onrender.com/">Social Sphere</li>
     <li><a href="https://github.com/elise-if/sanguine-game">Sanguine Game</li>
     <li><a href="https://github.com/elise-if/klondike-solitaire">Solitaire Game</li>
     <li><a href="https://github.com/elise-if/my-shell">Shell Script</a></li>
